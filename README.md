@@ -2,8 +2,8 @@ The Sparks Foundation,July 21
 
 Data Science & Business Analytics
 
-Task-2: Prediction using Unsupervised ML
+Task-2: Prediction using Supervised ML
 
-Description: From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+Description: Predict the percentage of an student based on the no. of study hours.
 
-Data Source used: https://bit.ly/3kXTdox
+Data Source used: http://bit.ly/w-data
