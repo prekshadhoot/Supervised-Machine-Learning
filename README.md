@@ -2,7 +2,7 @@ The Sparks Foundation,July 21
 
 Data Science & Business Analytics
 
-Task-2: Prediction using Supervised ML
+Task-1: Prediction using Supervised ML
 
 Description: Predict the percentage of an student based on the no. of study hours.
 
